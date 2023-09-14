@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an undergraduate student at Seoul National University (SNU), studying Computer Science and Engineering.
+Cognitive Neural Computation is my another major which is designed by myself.
+I love to explore neural mechanisms in the brain using computational tools.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Deep Learning:** image recognition, image generation, video captioning
+- **Neural Decoding:** meta-learning, incremental learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2023]** I started to work as an intern at AIMS Lab at UW!
+- **[Mar. 2023]** I went to UW as a exchange student!
 
 {% include_relative _includes/publications.md %}
 
