@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student at Seoul National University (SNU), studying Computer Science and Engineering as well as Cognitive Neural Computation (a major desigend by my self).    
+I am an undergraduate student at Seoul National University (SNU), studying Computer Science and Engineering, as well as Cognitive Neural Computation (a major desigend by myself).    
 I would love to study neural mechanisms in the brain using computational tools.
 
 ## Research Interests
