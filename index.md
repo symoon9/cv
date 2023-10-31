@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am an senior undergraduate student at Seoul National University, studying Computer Science and Engineering, as well as Cognitive Neural Computation (a major desigend by myself).    
-I would love to study neural mechanisms in the brain using computational tools.
+I am a senior undergraduate student at Seoul National University, studying Computer Science and Engineering, as well as Cognitive Neural Computation (a major desigend by myself).    
+My ultimate goal is to study neural mechanisms in the brain using computational tools, and eventually, simulate the whole brain in silico.
 
 ## Research Interests
 
@@ -18,7 +18,7 @@ I would love to study neural mechanisms in the brain using computational tools.
 ## News
 - **[Oct. 2023]** I wrote an abstract titled, **"Towards scalable embedding models for spatial transcriptomics data"**, and submitted to [MLCB](https://mlcb.github.io/)
 - **[Mar. 2023]** I started to work as an undergraduate researcher at AIMS Lab at UW!
-- **[Mar. 2023]** I went to UW as a exchange student!
+- **[Mar. 2023]** I went to University of Washington (UW) as a exchange student!
 
 ## Experiences
 - [AI for bioMedical Sciences (AIMS) Lab](https://suinlee.cs.washington.edu/home) @ UW (Seattle, WA)
