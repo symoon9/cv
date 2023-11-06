@@ -4,9 +4,9 @@ main:
     authors: <strong>Seo-Yoon Moon</strong>, Ethan Weinberger, Su-In Lee
     conference_short: MLCB
     conference: Machine Learning in Computational Biology, 2023
-    pdf: ./assets/files/glast_mlcb.pdf
-    image: ./assets/img/glast_mlcb_concept.png
-    notes: Submitted
+    pdf: ./assets/files/2023_MLCB_abstract.pdf
+    image: ./assets/img/2023_AllenShowcase_poster.png
+    notes: Poster Presentation
 
   - title: "The sexual brain, genes, and cognition: A machine-predicted brain sex score explains individual differences in cognitive intelligence and genetic influence in young children"
     authors: Kakyeong Kim, Yoonjung Yoonie Joo, Gun Ahn, Hee-Hwan Wang, <strong>Seo-Yoon Moon</strong>, Hyeonjin Kim, Woo-Young Ahn, Jiook Cha
@@ -20,7 +20,7 @@ main:
     conference_short: JAMA network open
     conference: JAMA network open, 2022
     page: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789157
-    pdf: ./assets/files/Joo2022.pdf
+    pdf: ./assets/files/2022_Joo.pdf
     image: ./assets/img/Joo2022_suicide.png
 
   - title: "The Impact of Early Life Stress on the Genetic Influence on Brain and Cognitive Development in Children"
