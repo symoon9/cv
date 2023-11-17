@@ -16,7 +16,7 @@ My ultimate goal is to study neural mechanisms in the brain using computational 
 - Biological and Artificial Intelligence
 
 ## News
-- **[Oct. 2023]** I wrote an abstract titled, **"Towards scalable embedding models for spatial transcriptomics data"**, and submitted to [MLCB](https://mlcb.github.io/)
+- **[Nov. 2023]** My 1st author paper **"Towards scalable embedding models for spatial transcriptomics data"** is accepted for poster presentation at [MLCB](https://mlcb.github.io/)
 - **[Mar. 2023]** I started to work as an undergraduate researcher at AIMS Lab at UW!
 - **[Mar. 2023]** I went to University of Washington (UW) as a exchange student!
 
