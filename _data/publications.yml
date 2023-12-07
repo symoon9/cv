@@ -7,7 +7,7 @@ main:
     paper: ./assets/files/2023_MLCB_manuscript.pdf
     poster: ./assets/files/2023_MLCB_poster.pdf
     video: https://www.youtube.com/watch?v=V9_M-BRcflc
-    image: ./assets/img/2023_AllenShowcase_poster.png
+    image: ./assets/img/2023mlcb_teaser.png
     notes: Poster Presentation
 
   - title: "Early Life Stress Modulates the Genetic Influence on Brain Structure and Cognitive Function in Children"

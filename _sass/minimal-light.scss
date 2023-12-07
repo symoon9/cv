@@ -3,7 +3,7 @@ $color_primary: black;
 $color_secondary: #595959;
 $color_tertiary: #777;
 $color_point: #043361;
-$color_link: rgb(21, 65, 86);
+$color_link: rgb(49, 107, 183);
 $color_link_hover: #069;
 
 .pub-row {
@@ -191,47 +191,47 @@ papertitle {
 }
 
 
-  .image {
-    border-radius: 0.35em;
-    border: 0;
-    display: inline-block;
-    position: relative;
-  }
+.image {
+  border-radius: 0.35em;
+  border: 0;
+  display: inline-block;
+  position: relative;
+}
 
-    .image:before {
-      -moz-transition: opacity 0.2s ease-in-out;
-      -webkit-transition: opacity 0.2s ease-in-out;
-      -ms-transition: opacity 0.2s ease-in-out;
-      transition: opacity 0.2s ease-in-out;
-      border-radius: 0.35em;
-      content: '';
-      display: block;
-      height: 100%;
-      left: 0;
-      opacity: 0.5;
-      position: absolute;
-      top: 0;
-      width: 100%;
-    }
+.image:before {
+  -moz-transition: opacity 0.2s ease-in-out;
+  -webkit-transition: opacity 0.2s ease-in-out;
+  -ms-transition: opacity 0.2s ease-in-out;
+  transition: opacity 0.2s ease-in-out;
+  border-radius: 0.35em;
+  content: '';
+  display: block;
+  height: 100%;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
 
-    .image.avatar {
-      border-radius: 100%;
-      width: 100%;
-      min-height: 150px;
-    }
+.image.avatar {
+  border-radius: 100%;
+  width: 100%;
+  min-height: 150px;
+}
 
-      .image.avatar:before {
-        display: none;
-      }
+.image.avatar:before {
+  display: none;
+}
 
-      .image.avatar img {
-        border-radius: 100%;
-        height: 100%;
-        // padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 5px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
-      }
+.image.avatar img {
+  border-radius: 100%;
+  height: 100%;
+  // padding: 20px;
+  // border: 1px solid #ddd;
+  // padding: 5px;
+  // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+}
 
     // #header .image.avatar {
     //   margin: 0 0 1em 0;
@@ -280,7 +280,8 @@ h1 {
 }
 
 a {
-  color: $color_point;
+  color: $color_link;
+  font-weight: bold;
   text-decoration:none;
 }
 
@@ -421,7 +422,7 @@ header ul a:active {
 
 strong {
   color:#222;
-  font-weight:500;
+  font-weight:600;
 }
 
 @media (prefers-color-scheme: dark) {
