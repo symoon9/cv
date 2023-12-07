@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://symoon9.github.io/sitemap.xml

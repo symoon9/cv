@@ -58,3 +58,7 @@ exclude:
   - minimal-light.gemspec
   - html_source_file/
   - vendor
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
