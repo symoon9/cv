@@ -4,15 +4,24 @@ main:
     authors: <strong>Seo-Yoon Moon</strong>, Ethan Weinberger, Su-In Lee
     conference_short: MLCB
     conference: Machine Learning in Computational Biology, 2023
-    pdf: ./assets/files/2023_MLCB_abstract.pdf
+    paper: ./assets/files/2023_MLCB_manuscript.pdf
+    poster: ./assets/files/2023_MLCB_poster.pdf
+    video: https://www.youtube.com/watch?v=V9_M-BRcflc
     image: ./assets/img/2023_AllenShowcase_poster.png
     notes: Poster Presentation
+
+  - title: "Early Life Stress Modulates the Genetic Influence on Brain Structure and Cognitive Function in Children"
+    authors: Hee-Hwan Wang*, <strong>Seo-Yoon Moon*</strong>, Hyun-Jin Kim, KaKyeong Kim, Woo-Young Ahn, Yoonjung Yoonie Joo, Jiook Cha
+    conference_short: Heliyon
+    conference: Heliyon, 2023 (in press)
+    paper: https://www.medrxiv.org/content/medrxiv/early/2021/12/30/2021.12.27.21268445.full.pdf
+    image: ./assets/img/moon2022_els.png
 
   - title: "The sexual brain, genes, and cognition: A machine-predicted brain sex score explains individual differences in cognitive intelligence and genetic influence in young children"
     authors: Kakyeong Kim, Yoonjung Yoonie Joo, Gun Ahn, Hee-Hwan Wang, <strong>Seo-Yoon Moon</strong>, Hyeonjin Kim, Woo-Young Ahn, Jiook Cha
     conference_short: Human Brain Mapping
     conference: Human Brain Mapping, 2022
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.25888
+    paper: https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.25888
     image: ./assets/img/kim2022_sexbrain.png
 
   - title: "Association of genome-wide polygenic scores for multiple psychiatric and common traits in preadolescent youths at risk of suicide"
@@ -20,21 +29,14 @@ main:
     conference_short: JAMA network open
     conference: JAMA network open, 2022
     page: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789157
-    pdf: ./assets/files/2022_Joo.pdf
+    paper: ./assets/files/2022_Joo.pdf
     image: ./assets/img/Joo2022_suicide.png
-
-  - title: "The Impact of Early Life Stress on the Genetic Influence on Brain and Cognitive Development in Children"
-    authors: <strong>Seo-Yoon Moon*</strong>, Hee-Hwan Wang*, Hyun-Jin Kim, KaKyeong Kim, Woo-Young Ahn, Yoonjung Yoonie Joo, Jiook Cha
-    conference_short: medRxiv
-    conference: medRxiv, 2021
-    pdf: https://www.medrxiv.org/content/medrxiv/early/2021/12/30/2021.12.27.21268445.full.pdf
-    image: ./assets/img/moon2022_els.png
 
   - title: "Learning ECG Representations for Multi-Label Classification of Cardiac Abnormalities"
     authors: Jangwon Suh, Jimyeong Kim, Eunjung Lee, Jaeill Kim, Duhun Hwang, Jungwon Park, Junghoon Lee, Jaeseung Park, <strong>Seo-Yoon Moon</strong>, Yeonsu Kim, Min Kang, Soonil Kwon, Eue-Keun Choi, Wonjong Rhee
     conference_short: CinC
     conference: Computing in Cardiology, 2021
     page: https://ieeexplore.ieee.org/abstract/document/9662753/
-    pdf: https://www.cinc.org/archives/2021/pdf/CinC2021-019.pdf
+    paper: https://www.cinc.org/archives/2021/pdf/CinC2021-019.pdf
     image: ./assets/img/ecg2021.png
 

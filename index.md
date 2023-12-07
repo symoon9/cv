@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a senior undergraduate student at Seoul National University, studying Computer Science and Engineering, as well as Cognitive Neural Computation (a major desigend by myself).    
+I am a senior undergraduate student at Seoul National University, studying **Computer Science & Engineering**, as well as **Cognitive Neural Computation** (a major desigend by myself).    
 My ultimate goal is to study neural mechanisms in the brain using computational tools, and eventually, simulate the whole brain in silico.
 
 ## Research Interests
@@ -16,14 +16,14 @@ My ultimate goal is to study neural mechanisms in the brain using computational 
 - Biological and Artificial Intelligence
 
 ## News
-- **[Nov. 2023]** My 1st author paper **"Towards scalable embedding models for spatial transcriptomics data"** is accepted for poster presentation at [MLCB](https://mlcb.github.io/)
-- **[Mar. 2023]** I started to work as an undergraduate researcher at AIMS Lab at UW!
-- **[Mar. 2023]** I went to University of Washington (UW) as a exchange student!
+- **[Dec. 2023]** My co-first author paper **"Early Life Stress Modulates the Genetic Influence on Brain Structure and Cognitive Function in Children"** is accepted by Heliyon
+- **[Nov. 2023]** My 1st author paper **"Towards scalable embedding models for spatial transcriptomics data"** is accepted for poster presentation at [MLCB](https://mlcb.github.io/) and [here](https://www.youtube.com/watch?v=V9_M-BRcflc) is the video for the virtual presentation
+- **[Mar. 2023]** I started to work as an undergraduate researcher at [AIMS Lab](https://suinlee.cs.washington.edu/home) at UW!
 
 ## Experiences
 - [AI for bioMedical Sciences (AIMS) Lab](https://suinlee.cs.washington.edu/home) @ UW (Seattle, WA)
   - Advisor: Dr. Su-In Lee
-  - Mar 2023 - Present
+  - Mar 2023 - Oct 2023
 - [Connectome Lab](https://sites.google.com/connectomelab.net/snu/) @ SNU (Seoul, Korea)
   - Advisor: Dr. Jiook Cha
   - Jun 2020 - Dec 2022
@@ -38,14 +38,14 @@ My ultimate goal is to study neural mechanisms in the brain using computational 
 - Seoul National University (Mar 2019 - expected Aug 2024)
   - BS in Computer Science and Engineering
   - BS in Cognitive Neural Computation (student-designed major)
-  - Course Works
+  - Coursework
     - Data Science: Artificial Intelligence, Machine Learning, Deep Learning
-    - Neuro Science: Neurobiology, System Neuroscience, Cell Biology
-    - Mathematics: Linear Algebra, Differential Equation, Calculus
-    - Computer Science: Algorithm, Computer Architecture
+    - Neuroscience: Neurobiology, System Neuroscience, Cell Biology
+    - Mathematics: Linear Algebra, Differential Equation, Maltivariate Calculus
+    - Computer Science: Data Structure, Algorithm, Computer Architecture
 - University of Washington (Mar 2023 - Jun 2023)
   - Exchange Student
-  - Course Works
+  - Coursework
     - Computational Biology Capstone, Neuroscience Seminar
 
 {% include_relative _includes/publications.md %}

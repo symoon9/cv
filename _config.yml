@@ -15,14 +15,14 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.co.kr/citations?user=NHEvfkgAAAAJ&hl=ko
-cv_link: assets/files/Seo_Yoon_Moon_CV.pdf
+cv_link: assets/files/Seo-Yoon_Moon_CV.pdf
 github_link: https://github.com/symoon9
 linkedin: https://www.linkedin.com/in/symoon9/
 # twitter: https://twitter.com/moon_seoyoon
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/me_whitehouse_small.jpeg
+avatar: ./assets/img/me_camera.jpg
 favicon: ./assets/img/moon.png
 favicon_dark: ./assets/img/moon.png
 
