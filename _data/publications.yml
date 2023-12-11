@@ -4,7 +4,7 @@ main:
     authors: <strong>Seo-Yoon Moon</strong>, Ethan Weinberger, Su-In Lee
     conference_short: MLCB
     conference: Machine Learning in Computational Biology, 2023
-    paper: ./assets/files/2023_MLCB_manuscript.pdf
+    paper: ./assets/files/2023_MLCB_abstract.pdf
     poster: ./assets/files/2023_MLCB_poster.pdf
     video: https://www.youtube.com/watch?v=V9_M-BRcflc
     image: ./assets/img/2023mlcb_teaser.png
@@ -13,8 +13,9 @@ main:
   - title: "Early Life Stress Modulates the Genetic Influence on Brain Structure and Cognitive Function in Children"
     authors: Hee-Hwan Wang*, <strong>Seo-Yoon Moon*</strong>, Hyun-Jin Kim, KaKyeong Kim, Woo-Young Ahn, Yoonjung Yoonie Joo, Jiook Cha
     conference_short: Heliyon
-    conference: Heliyon, 2023 (in press)
-    paper: https://www.medrxiv.org/content/medrxiv/early/2021/12/30/2021.12.27.21268445.full.pdf
+    conference: Heliyon, 2023
+    page: https://www.cell.com/heliyon/fulltext/S2405-8440(23)10553-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844023105536%3Fshowall%3Dtrue
+    paper: https://www.cell.com/action/showPdf?pii=S2405-8440%2823%2910553-6
     image: ./assets/img/moon2022_els.png
 
   - title: "The sexual brain, genes, and cognition: A machine-predicted brain sex score explains individual differences in cognitive intelligence and genetic influence in young children"
