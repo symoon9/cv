@@ -8,12 +8,8 @@ I am a senior undergraduate student at Seoul National University, studying **Com
 My ultimate goal is to study neural mechanisms in the brain using computational tools, and eventually, simulate the whole brain in silico.
 
 ## Research Interests
-
-- Brain Modeling
-- Neural Decoding
-- Representation Learning
-- Neuro AI
-- Biological and Artificial Intelligence
+I am interested in **Biological and Artificial Intelligence**.
+Specifically, **Brain Modeling / Neural Decoding / Representation Learning / Neuro AI**
 
 ## News
 - **[Dec. 2023]** My co-first author paper **"Early Life Stress Modulates the Genetic Influence on Brain Structure and Cognitive Function in Children"** is accepted by Heliyon
