@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Hi👋 I’m a first-year PhD student at [Carnegie Mellon University](https://www.cmu.edu/) in the [Computational Biology Department](https://cbd.cmu.edu/). I haven’t decided which lab to join, but I’m interested in general neuroscience projects. Before CMU, I completed my bachelor’s at Seoul National University, majoring in Computer Science & Engineering and Cognitive Neural Computation.
+Hi👋 I’m a first-year PhD student at [Carnegie Mellon University](https://www.cmu.edu/) in the [Computational Biology Department](https://cbd.cmu.edu/). I haven’t decided which lab to join, but I’m interested in general neuroscience projects. Before CMU, I completed my bachelor’s at [Seoul National University](https://en.snu.ac.kr/), majoring in Computer Science & Engineering and Cognitive Neural Computation.
 
 ## Research Interests
 I am interested in **Biological and Artificial Intelligence**.
@@ -30,7 +30,7 @@ Specifically, **Brain Modeling / Neural Decoding / Representation Learning / Neu
 
 
 ## Education
-- **Carnegie Mellon University**(Aug 2024 - Present)
+- **Carnegie Mellon University** (Aug 2024 - Present)
   - Computational Biology Ph.D. Student
 - **Seoul National University** (Mar 2019 - Aug 2024)
   - BS in Computer Science and Engineering
