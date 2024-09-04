@@ -1,21 +1,21 @@
 # Basic Information 
 url: https://symoon9.github.io/
 title: Seo-Yoon Moon
-position: Undergraduate Student
-affiliation: Seoul National University
-affiliation_link: https://en.snu.ac.kr/index.html
-email: mrn538@snu.ac.kr
+position: Ph.D. Student
+affiliation: Carnegie Mellon University
+affiliation_link: https://www.cmu.edu/
+email: symoon@cmu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Seo-Yoon Moon, SNU, Seoul National University, Neuroscience, AI, Computational Neuroscience
-description: I'm Seo-Yoon Moon, an undergraduate student at Seoul National University! My major is CSE and Cognitive Neural Computation, and I'm interested in brain modeling!
+keywords: Seo-Yoon Moon, CMU, Carnegie Mellon University, Computational Biology, CPCB, SNU, Seoul National University
+description: I'm Seo-Yoon Moon, a Ph.D. student at CMU Computational Biology Department!
 canonical: https://symoon9.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.co.kr/citations?user=NHEvfkgAAAAJ&hl=ko
-cv_link: assets/files/Seo-Yoon_Moon_CV.pdf
+cv_link: assets/files/Seo-Yoon_Moon_CV_latest.pdf
 github_link: https://github.com/symoon9
 linkedin: https://www.linkedin.com/in/symoon9/
 # twitter: https://twitter.com/moon_seoyoon
