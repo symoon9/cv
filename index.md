@@ -3,17 +3,15 @@ layout: homepage
 ---
 
 ## About Me
-I am going to start my PhD at **CMU** and **Pitt** in August 2024 as a **Computational Biology** major!
-
-I am a senior undergraduate student at Seoul National University, studying **Computer Science & Engineering**, as well as **Cognitive Neural Computation** (a major designed on my own).    
-My ultimate goal is to study neural mechanisms in the brain using computational tools and, eventually, simulate the whole brain in silico.
+Hi👋 I'm first-year PhD student at [Carnegie Mellon University](https://www.cmu.edu/) in [Computational Biology Department](https://cbd.cmu.edu/). I haven't decided which lab to join, but I'm interested in general neuroscience projects. Before CMU, I completed my bachelor's at Seoul National University with Computer Science & Engineering and Cognitive Neural Computation major.
 
 ## Research Interests
 I am interested in **Biological and Artificial Intelligence**.
 Specifically, **Brain Modeling / Neural Decoding / Representation Learning / Neuro AI**
 
 ## News
-- **[Feb. 2024]** I got PhD offer from **Joint CMU-Pitt Ph.D. Program in Computational Biology (CPCB)** and accepted it!
+- **[Aug. 2024]** I officially graduated from SNU!
+- **[Aug. 2024]** I started my PhD at CMU!
 - **[Dec. 2023]** My co-first author paper **"Early Life Stress Modulates the Genetic Influence on Brain Structure and Cognitive Function in Children"** is accepted by Heliyon
 - **[Nov. 2023]** My first author paper **"Towards scalable embedding models for spatial transcriptomics data"** is accepted for poster presentation at [MLCB](https://mlcb.github.io/) and [here](https://www.youtube.com/watch?v=V9_M-BRcflc) is the video for the virtual presentation
 
@@ -32,7 +30,7 @@ Specifically, **Brain Modeling / Neural Decoding / Representation Learning / Neu
 
 
 ## Education
-- **Carnegie Mellon University**/**University of Pittsburgh**(Aug 2024 - Present)
+- **Carnegie Mellon University**(Aug 2024 - Present)
   - Computational Biology Ph.D. Student
 - **Seoul National University** (Mar 2019 - Aug 2024)
   - BS in Computer Science and Engineering
