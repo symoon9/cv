@@ -4,17 +4,17 @@ layout: homepage
 
 ## About Me
 Hi there 👋      
-I’m a first-year PhD student at [Carnegie Mellon University](https://www.cmu.edu/) in the [Computational Biology Department](https://cbd.cmu.edu/) advised by [Jose Lugo-Martinez](https://cbd.cmu.edu/people/lugo-martinez.html). Before CMU, I completed my bachelor’s at [Seoul National University](https://en.snu.ac.kr/), majoring in Computer Science & Engineering and Cognitive Neural Computation.
+I’m a first-year PhD student at [Carnegie Mellon University](https://www.cmu.edu/) in the [Computational Biology Department](https://cbd.cmu.edu/) advised by Dr. [Jose Lugo-Martinez](https://cbd.cmu.edu/people/lugo-martinez.html). Before CMU, I completed my bachelor’s at [Seoul National University](https://en.snu.ac.kr/), majoring in Computer Science & Engineering and Cognitive Neural Computation.
 
 ## Research Interests
-scRNA-seq, Spatial Transcriptomics, Aging \\
-I'm also interested in computational neuroscience (Brain Modeling / Neural Decoding / Representation Learning / Neuro AI)
+**scRNA-seq, Spatial Transcriptomics, Aging** \\
+I'm also interested in computational neuroscience (Brain Modeling / Neural Decoding / Neuro AI)
 
 ## News
 - **[Feb. 2025]** I joined Lugo-Martinez Lab
 - **[Aug. 2024]** I started my PhD at CMU!
 - **[Dec. 2023]** My co-first author paper **"Early Life Stress Modulates the Genetic Influence on Brain Structure and Cognitive Function in Children"** is published at Heliyon
-- **[Nov. 2023]** My first author paper **"Towards scalable embedding models for spatial transcriptomics data"** is accepted for poster presentation at [MLCB](https://mlcb.github.io/) and [here](https://www.youtube.com/watch?v=V9_M-BRcflc) is the video for the virtual presentation
+<!-- - **[Nov. 2023]** My first author paper **"Towards scalable embedding models for spatial transcriptomics data"** is accepted for poster presentation at [MLCB](https://mlcb.github.io/) and [here](https://www.youtube.com/watch?v=V9_M-BRcflc) is the video for the virtual presentation -->
 
 ## Experiences
 - [AI for bioMedical Sciences (AIMS) Lab](https://suinlee.cs.washington.edu/home) @ UW (Seattle, WA)
